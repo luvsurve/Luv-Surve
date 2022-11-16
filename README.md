@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi, I'm Luv Surve</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" width="400" alt="coding..." src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **luvsurveml@gmail.com**
 
-- ⚡ My moto **Change occurs when you stop checking**
+- ⚡ My moto **Change occurs when you stop noticing**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,11 +31,11 @@
 
 <b>My GitHub Stats </b>
 
-<a href="https://github.com/">luvsurve<img src="https://github-readme-stats.vercel.app/api?username=luvsurve&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a href="https://github.com/"><img src="https://github-readme-stats.vercel.app/api?username=luvsurve&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 <br>
 
 <a href="https://github.com/luvsurve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luvsurve&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<br>
 <a href="https://github.com/luvsurve"><img src="https://activity-graph.herokuapp.com/graph?username=luvsurve&bg_color=1c1917&color=ffffff&line=7f08b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/luvsurve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvsurve&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
