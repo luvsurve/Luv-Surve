@@ -32,6 +32,7 @@
 <b>My GitHub Stats </b>
 
 <a href="https://github.com/">luvsurve<img src="https://github-readme-stats.vercel.app/api?username=luvsurve&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<br>
 
 <a href="https://github.com/luvsurve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luvsurve&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
