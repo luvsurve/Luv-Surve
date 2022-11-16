@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **luvsurveml@gmail.com**
 
-- ⚡ My moto **Change occurs when you stop noticing**
+- ⚡ My moto **It happens when you stop noticing**
 
 
 <h3 align="left">Connect with me:</h3>
